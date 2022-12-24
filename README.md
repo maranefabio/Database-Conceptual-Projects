@@ -5,7 +5,9 @@ Welcome!
 
 This repository is my portolio of Database Conceptual Projects, in the format of Entity-Relationshio Model.
 I appreciate your visit! :)
------------------------------------------------------------------------------------------------------------
+
+.........................................................................................................................
+
 (Pt-BR)
 Bem vindo!
 
