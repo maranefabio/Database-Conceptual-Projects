@@ -1,4 +1,4 @@
-This is a conceptual project for the educational database of a university.
+This is a conceptual project for the educational database of a university, done in MySQL Workbench.
 
 The university contains:
 - Different campus;
